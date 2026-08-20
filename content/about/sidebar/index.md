@@ -1,6 +1,6 @@
 +++
 author = "Anil Kodepaka"
-role = "Your professional title"
+role = "Cloud & Platform Engineer | Platform Architect"
 
 avatar_shape = "circle"
 
