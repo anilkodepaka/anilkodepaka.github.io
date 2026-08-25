@@ -33,6 +33,21 @@ I also have extensive experience working in regulated pharmaceutical environment
 
 **Client: Takeda, Switzerland** · August 2021 – December 2025
 
+- Designed, built and operated enterprise AWS-based platforms supporting production analytics and data science workloads across multiple AWS accounts and Amazon EKS clusters.
+- Owned Amazon EKS platforms end-to-end, including setup, configuration, maintenance, lifecycle management, upgrades, troubleshooting and production support.
+- Used GitHub Enterprise as an internal source-code repository for infrastructure configuration and AWS CloudFormation templates.
+- Created, maintained and updated CloudFormation templates to standardize and automate the provisioning and configuration of cloud infrastructure.
+- Implemented GitHub Actions workflows to automate infrastructure deployments following repository changes, with review and approval steps before deployment.
+- Supported controlled infrastructure changes through version-controlled configuration, peer review, approval workflows and automated deployment processes.
+- Provisioned and maintained AWS IAM roles and policies to provide secure and appropriately governed access to cloud resources.
+- Implemented and maintained secrets management practices for secure handling of credentials and sensitive configuration.
+- Used CloudWatch and CloudTrail for monitoring, operational troubleshooting and investigation of platform and infrastructure activity.
+- Used Apptio Cloudability to support cloud cost visibility, optimization and platform efficiency initiatives.
+- Provided hands-on support for high-priority production incidents, troubleshooting issues across Kubernetes, cloud infrastructure and platform services.
+- Coordinated with QA and relevant stakeholders for controlled production changes and supported compliance with established change-management processes.
+- Collaborated with data science, platform engineering, security and infrastructure stakeholders to improve platform usability, stability and operational efficiency.
+- Acted as a technical bridge between platform engineering and platform-consuming teams, translating workload requirements into reliable cloud capabilities.
+
 ### Platform Engineer – OpenShift / Automation
 
 **Client: Novartis, Switzerland** · August 2017 – August 2021
