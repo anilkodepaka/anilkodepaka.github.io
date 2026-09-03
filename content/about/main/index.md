@@ -15,7 +15,7 @@ This website is where I share my work, projects, interests, and ideas. I’m als
 
 I began my career in IT with a passion for technology and problem-solving. Over the years, that journey brought me to Switzerland — a move that was both exciting and challenging.
 
-Relocating to a new country meant adapting to a different culture, language, and way of life. Fortunately, I was surrounded by a wonderful group of Indian colleagues who quickly became some of my closest friends. Their support and friendship made Switzerland feel like home from the very beginning.
+Relocating to a new country meant adapting to a different culture, language, and way of life. Fortunately, I was surrounded by a wonderful group of colleagues who quickly became some of my closest friends. Their support and friendship made Switzerland feel like home from the very beginning.
 
 As new opportunities arose, I continued to grow both professionally and personally, building a life that I truly enjoy.
 
